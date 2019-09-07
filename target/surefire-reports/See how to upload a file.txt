@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: See how to upload a file
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.028 s - in See how to upload a file

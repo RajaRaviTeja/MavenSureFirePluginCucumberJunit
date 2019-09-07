@@ -1,0 +1,13 @@
+com\qa\runner\AlertTestRunner.class
+com\qa\runner\FileUploadTestRunner.class
+com\qa\stepdef\BrowserResizeTest.class
+com\qa\runner\WebTableTestRunner.class
+com\qa\stepdef\Hooks.class
+com\qa\stepdef\AlertsTest.class
+com\qa\stepdef\Background.class
+com\qa\stepdef\WebTableTest.class
+com\qa\runner\BrowserResizeTestRunner.class
+com\qa\stepdef\BaseTest.class
+com\qa\stepdef\FileUploadTest.class
+com\qa\stepdef\FramesTest.class
+com\qa\runner\FramesRunner.class
